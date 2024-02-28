@@ -1,6 +1,6 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["Transformer", "GPT", "LLM", "Bert","DAN", "MMD", "ARIMA", "RNN", "LSTM", "GRU"];
-let titles_method = ["Pre-train", "Pretrain", "Self-Supervised", "Transfer Learning", "Adaptation", "Adaptative", "Time Series", "Time-Series", "domain generalization", "Adversarial", "Out-of-Distribution", "Continual Learning", "Incremental Learning", "Life-long Learning", "Forecasting", "Prediction", "Regression", "Forecast", "domain", "shift", "Building"];
+let titles_model = ["Transformer", "GPT", "LLM", "Bert", "MMD", "ARIMA", "RNN", "LSTM", "GRU"];
+let titles_method = ["Pre-train", "Pretrain", "Self-Supervised", "Transfer Learning", "Adaptation", "Adaptative", "Time Series", "Time-Series", "domain generalization", "Adversarial", "Out-of-Distribution", "Continual Learning", "Incremental Learning", "Life-long Learning", "Forecasting", "Prediction", "Regression", "Forecast", "Online", "domain", "shift", "Building"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Jindong Wang", "Mingsheng Long", "Qiang Yang", "Sinno Jialin Pan"];
 
